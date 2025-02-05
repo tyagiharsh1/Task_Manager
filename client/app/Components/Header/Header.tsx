@@ -1,7 +1,7 @@
 "use client";
 import { useTasks } from "@/context/taskContext"; // Corrected import
 import { useUserContext } from "@/context/userContext"; // Corrected import
-import { github, moon, profile } from "@/utils/Icons"; // Corrected import
+// import { github, moon, profile } from "@/utils/Icons"; // Corrected import
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import React, { useState, useEffect } from "react";
